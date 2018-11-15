@@ -1,4 +1,5 @@
+python
 numpy
 matplotlib
 plotly
-rise==5.4.1
+rise
