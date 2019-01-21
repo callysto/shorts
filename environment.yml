@@ -11,4 +11,3 @@ dependencies:
   - bokeh
   - rise
   - tqdm
-  - time
